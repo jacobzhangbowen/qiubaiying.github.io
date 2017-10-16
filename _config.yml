@@ -1,5 +1,5 @@
 # Site settings
-title: Bowen Blog
+title: Zhang.Bowen Blog
 SEOTitle: 张博闻 | Bowen Blog
 header-img: img/post-bg-desk.jpg
 email: zhang_bo_wen@foxmail.com / bowen.zhang2017@gmail.com  
@@ -19,7 +19,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's us
 # SNS settings
 RSS: false
 # weibo_username:     qiubaiying
-zhihu_username:     zzzzzzzzz999
+zhihu_username:     jacob_zhangbowen
 github_username:    Bowenzzzzzz999
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
